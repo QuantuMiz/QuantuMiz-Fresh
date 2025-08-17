@@ -1,0 +1,17 @@
+version:4440
+advancedItemTooltips:true
+enableVsync:false
+fullscreen:true
+guiScale:3
+joinedFirstServer:true
+maxFps:260
+onboardAccessibility:false
+operatorItemsTab:true
+resourcePacks:["vanilla","fabric"]
+simulationDistance:5
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown

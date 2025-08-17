@@ -1,0 +1,1 @@
+Image is still pending, meanwhile placeholder image will be used
