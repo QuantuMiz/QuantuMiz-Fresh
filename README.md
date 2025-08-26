@@ -14,19 +14,31 @@
 
 ---
 
-***QuantuMiz Fresh*** is the lightweight alternative edition of QuantuMiz which always fetches fresh new updates by Mojang, while keeping less mods for faster updates of the mods.
+***QuantuMiz Fresh*** is the third edition of QuantuMiz which includes less mods and feature than original QuantuMiz, and always uses up-to-date Minecraft version.
 
 ## Changelog
 See [here](https://github.com/QuantuMiz/QuantuMiz/releases).
 
 ## Features
-* Only includes minimal optimizations and Shaders for faster updates
-* Uses latest feature drops from Mojang for best experience
+* Only includes essential optimization and feature mods (such as No Chat Report, Iris Shader mod) for faster updates
+* Latest version of Minecraft are used, unlike QuantuMiz which is updated every 6~9 months
 * Updated every 2 weeks (Some exception exists such as mods update delay or new feature drop updates/hotfixes by Mojang)
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
 
+
 ## List of Mods
-Some of mods featured here can be configured on Mod Menu. Refer to [List of mods](https://github.com/QuantuMiz/QuantuMiz-Fresh/wiki/List-of-Mods) page for full list of mods.
+Some of mods featured here can be configured on Mod Menu.
+
+* [Sodium](https://modrinth.com/mod/sodium)
+* [Lithium](https://modrinth.com/mod/lithium)
+* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+* [FerriteCore](https://modrinth.com/mod/ferrite-core)
+* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Mod Menu](https://modrinth.com/mod/modmenu)
+* [Iris Shaders](https://modrinth.com/mod/iris)
+* [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
+* [Fabric API](https://modrinth.com/mod/fabric-api)
+* [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 
 ## Special Thanks
 * Fabulously Optimized
